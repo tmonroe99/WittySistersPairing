@@ -5,10 +5,10 @@ import java.util.Hashtable;
 
 public class WittySistersEmail {
 	
-	private static String fileName = "csv Fall 2019 WiTty Sisters Application (Responses).csv";
+	private static String fileName = "scrubbed data.csv";
 	static ArrayList<String[]> data;
 	
-	public static void getData() {
+	public static ArrayList<String[]> getData() {
 		try (BufferedReader br = new BufferedReader(new FileReader(fileName))) {
 			data = new ArrayList<String[]>(); // ArrayList used for data sets of different length.
 
@@ -43,6 +43,7 @@ public class WittySistersEmail {
 			System.out.println("Error While Parsing Data From CSV:");
 			e.printStackTrace();
 		}
+		return data;
 	}
 	
 	public static String buildEmail(String email, String[] params) {
@@ -99,7 +100,7 @@ public class WittySistersEmail {
 
 	public static void main(String[] args) {
 		
-		getData();
+		data = getData();
 	
 		
 		try {
