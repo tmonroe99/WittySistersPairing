@@ -146,16 +146,6 @@ public class WittySistersEmail {
 			e1.printStackTrace();
 		}
 
-		
-
-		
-		
-
-		
-
-		
-		
-		
 	}
 
 }

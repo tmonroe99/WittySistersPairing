@@ -1,6 +1,9 @@
 import java.io.BufferedReader;
+import java.io.BufferedWriter;
+import java.io.File;
 import java.io.FileNotFoundException;
 import java.io.FileReader;
+import java.io.FileWriter;
 import java.io.IOException;
 import java.util.*;
 import java.util.Map.Entry;
@@ -128,7 +131,7 @@ public class WittySistersPairing {
 
 		}
 		
-		System.out.println("2ND ROUND -- PAIR MATCHING MENTEES TO MENTORS---------------------------------------------------------");
+//		System.out.println("2ND ROUND -- PAIR MATCHING MENTEES TO MENTORS---------------------------------------------------------");
 		
 		for (int i = 0; i < mentees.size(); i++) {
 
@@ -176,15 +179,6 @@ public class WittySistersPairing {
 			}
 
 		} //end 2nd round pairing
-
-
-		for (Girl g : girls) {
-
-			if (!totalPaired.contains(g)) {
-//				System.out.println(g.getFirstName() + " is unpaired, major: " + g.getMajor() + " role: " + g.getmRole());
-			}
-
-		}
 		
 		Set<Entry> entries = myTable.entrySet();
 		
@@ -194,21 +188,69 @@ public class WittySistersPairing {
 			Girl key = (Girl)entry.getKey();
 			ArrayList<Girl> values = (ArrayList<Girl>)entry.getValue();
 			
-			String s = key.getFirstName() + " major/department:   "  + key.getMajor() + "/" + key.getDepartment();
+			String s = "\n"+key.getFirstName() + " " + key.getLastName() + "   "  + key.getMajor() + "/" + key.getDepartment();
 			System.out.println(s);
 			sb.append(s);
 			
 			
 			for(Girl value : values) {
 				
-				String mt = "   " + value.getFirstName() +"   " +value.getMajor() + "/" + value.getDepartment();
+				String mt = "\n   " + value.getFirstName() +" " +value.getLastName() +"   " +value.getMajor() + "/" + value.getDepartment();
 				System.out.println(mt);
 				sb.append(mt);
 				
 			}
 			
 		}
+		
+		sb.append("\n\nUnpaired:\n");
+		
+		for (Girl g : girls) {
 
+			if (!totalPaired.contains(g)) {
+				System.out.println(g.getFirstName() + " is unpaired, major: " + g.getMajor() + " role: " + g.getmRole());
+				sb.append("\n" + g.getFirstName() + " is unpaired, major: " + g.getMajor() + " role: " + g.getmRole());
+			}
+
+		}
+		
+		writeOut(sb);
+
+	}
+	
+	public static void writeOut(StringBuilder sb) {
+		
+		try {
+			File file = new File("newlist.txt");
+			FileWriter fw;
+			
+			if (!file.exists()) {
+			     try {
+					file.createNewFile();
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+			  }
+
+			
+			fw = new FileWriter(file);
+			BufferedWriter bw = new BufferedWriter(fw);
+			
+				try {
+					bw.write(sb.toString());
+				} catch (IOException e) {
+					// TODO Auto-generated catch block
+					e.printStackTrace();
+				}
+				
+			bw.close();
+			
+		} catch (IOException e1) {
+			// TODO Auto-generated catch block
+			e1.printStackTrace();
+		}
+		
 	}
 
 	public static void main(String[] args) {
@@ -216,6 +258,7 @@ public class WittySistersPairing {
 		data = WittySistersEmail.getData();
 		makeGirls();
 		pair();
+		
 
 	}
 
