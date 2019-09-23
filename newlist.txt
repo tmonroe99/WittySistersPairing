@@ -1,0 +1,65 @@
+
+Nicole Griffin   Computer Information Technology/CIT
+   Emily Cottrell   Computer Information Technology/CIT
+   Tierney Seyffart   Cybersecurity/CIT
+Yansi Keim   Cyber Forensics/CIT
+   Brookley McCullough   Computer Information Technology/CIT
+   Emily Steuer   Cybersecurity/CIT
+jaz mehay   Mechanical Engineering Technology/SOET
+   Shelby Pearson   Mechanical engineering technology/SOET
+Lindsay Harper   Cybersecurity/CIT
+   Jihyun You   Computer Information Technology/CIT
+   Alaina Ridolfo   Cybersecurity/CIT
+Trevor Craig   Construction Management Technology/CMT
+   Emily Ptacek   Construction Management Technology/CMT
+   Leeann Dean   Construction Management Technology/CMT
+Sarah Krebs   Organizational Leadership/TLI
+   Kendyl Phelps   Organizational Leadership/TLI
+Azaria Revereza   Animation/CGT
+   Chloe Garces   Animation/CGT
+   Claire Johnson   Web Programming & Design/CGT
+Ketaki Pawar   animation/CGT
+   Camille Brashear   Animation/CGT
+   Sungin Ha   Web Programming & Design/CGT
+Katie Klokkevold   Mechanical Engineering Technology/SOET
+   Emmani Ellis   Mechatronics Engineering technology/SOET
+Eryn Sitar   Mechanical Engineering Technology/SOET
+   Kaitlyn Miller   Mechanical engineering technology/SOET
+   Megan Daniel   Robotics Engineering Technology/SOET
+Erin Cook   Animation/CGT
+   Anne Pivonka   UX Design/CGT
+Jieun You   Computer Information Technology/CIT
+   hailey ferber   Computer Information Technology/CIT
+   Maria Joseph   Cybersecurity/CIT
+Annie Jansen   Construction Management Technology/CMT
+   Gabrielle Bethards   Construction Management Technology/CMT
+Heather Battinich   Robotics Engineering Technology/SOET
+   Jami Pryde   Mechatronics Engineering technology/SOET
+Madison Schafer   Cybersecurity/CIT
+   Alexa Nelson   Cybersecurity/CIT
+Sarah Cohen   Electrical Engineering Technology/SOET
+   Hayley Grisez   Engineering Technology Teacher Education/SOET
+   Kabrea Rostochak   Mechanical Engineering Technology/SOET
+Mia Stoffel   Cybersecurity/CIT
+   Samantha Landa   Computer Information Technology/CIT
+Taylor Younkins   Cybersecurity/CIT
+   Katherine Olberding   Computer Information Technology/CIT
+   Faith Spencer   Cybersecurity/CIT
+Lydia Scarcelli   Organizational Leadership/TLI
+   Veronica Reynolds   Organizational Leadership/TLI
+Anna-Nikol Georgiev   Industrial Engineering Technology/SOET
+   Braley Mullarkey   Mechanical Engineering Technology/SOET
+   Delaney Smith   Mechanical Engineering Technology/SOET
+Kira Boles   Cybersecurity/CIT
+   Taylor Loewe   Computer Information Technology/CIT
+Emily Hobart   Mechanical Engineering Technology/SOET
+   Michaela Enerson   Mechanical Engineering Technology/SOET
+   Lauren Gunter   Robotics Engineering Technology/SOET
+
+Unpaired:
+
+Sarah is unpaired, major: Aviation Management role: Mentor
+McClane is unpaired, major: Aviation Management role: Mentor
+Kailee is unpaired, major: Aviation Management role: Mentor
+Shruti is unpaired, major: Data Science role: Mentor
+Alex is unpaired, major: Professional Flight role: Mentor

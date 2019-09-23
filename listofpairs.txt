@@ -1,0 +1,57 @@
+
+Nicole Griffin major/department:   Computer Information Technology/CIT
+   Emily Cottrell   Computer Information Technology/CIT
+   Tierney Seyffart   Cybersecurity/CIT
+Yansi Keim major/department:   Cyber Forensics/CIT
+   Brookley McCullough   Computer Information Technology/CIT
+   Emily Steuer   Cybersecurity/CIT
+jaz mehay major/department:   Mechanical Engineering Technology/SOET
+   Shelby Pearson   Mechanical engineering technology/SOET
+Lindsay Harper major/department:   Cybersecurity/CIT
+   Jihyun You   Computer Information Technology/CIT
+   Alaina Ridolfo   Cybersecurity/CIT
+Trevor Craig major/department:   Construction Management Technology/CMT
+   Emily Ptacek   Construction Management Technology/CMT
+   Leeann Dean   Construction Management Technology/CMT
+Sarah Krebs major/department:   Organizational Leadership/TLI
+   Kendyl Phelps   Organizational Leadership/TLI
+Azaria Revereza major/department:   Animation/CGT
+   Chloe Garces   Animation/CGT
+   Claire Johnson   Web Programming & Design/CGT
+Ketaki Pawar major/department:   animation/CGT
+   Camille Brashear   Animation/CGT
+   Sungin Ha   Web Programming & Design/CGT
+Katie Klokkevold major/department:   Mechanical Engineering Technology/SOET
+   Emmani Ellis   Mechatronics Engineering technology/SOET
+Eryn Sitar major/department:   Mechanical Engineering Technology/SOET
+   Kaitlyn Miller   Mechanical engineering technology/SOET
+   Megan Daniel   Robotics Engineering Technology/SOET
+Erin Cook major/department:   Animation/CGT
+   Anne Pivonka   UX Design/CGT
+Jieun You major/department:   Computer Information Technology/CIT
+   hailey ferber   Computer Information Technology/CIT
+   Maria Joseph   Cybersecurity/CIT
+Annie Jansen major/department:   Construction Management Technology/CMT
+   Gabrielle Bethards   Construction Management Technology/CMT
+Heather Battinich major/department:   Robotics Engineering Technology/SOET
+   Jami Pryde   Mechatronics Engineering technology/SOET
+Madison Schafer major/department:   Cybersecurity/CIT
+   Alexa Nelson   Cybersecurity/CIT
+Sarah Cohen major/department:   Electrical Engineering Technology/SOET
+   Hayley Grisez   Engineering Technology Teacher Education/SOET
+   Kabrea Rostochak   Mechanical Engineering Technology/SOET
+Mia Stoffel major/department:   Cybersecurity/CIT
+   Samantha Landa   Computer Information Technology/CIT
+Taylor Younkins major/department:   Cybersecurity/CIT
+   Katherine Olberding   Computer Information Technology/CIT
+   Faith Spencer   Cybersecurity/CIT
+Lydia Scarcelli major/department:   Organizational Leadership/TLI
+   Veronica Reynolds   Organizational Leadership/TLI
+Anna-Nikol Georgiev major/department:   Industrial Engineering Technology/SOET
+   Braley Mullarkey   Mechanical Engineering Technology/SOET
+   Delaney Smith   Mechanical Engineering Technology/SOET
+Kira Boles major/department:   Cybersecurity/CIT
+   Taylor Loewe   Computer Information Technology/CIT
+Emily Hobart major/department:   Mechanical Engineering Technology/SOET
+   Michaela Enerson   Mechanical Engineering Technology/SOET
+   Lauren Gunter   Robotics Engineering Technology/SOET
